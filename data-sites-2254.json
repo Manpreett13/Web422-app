@@ -1,0 +1,2758 @@
+[
+  {
+    "siteName": "Abbot Pass Refuge Cabin",
+    "description": "An alpine hut located at an elevation of 2925 metres in the Alberta Rockies, near the continental divide in Banff National Park, near its boundary with Yoho National Park in British Columbia",
+    "dates": [
+      {
+        "year": "1922",
+        "type": "completed"
+      }
+    ],
+    "designated": "1992",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Abbot_Pass_hut.jpg",
+    "location": {
+      "town": "Abbot Pass",
+      "latitude": "51.364056",
+      "longitude": "-116.2902083"
+    },
+    "provinceOrTerritory": {
+      "code": "AB",
+      "name": "Alberta",
+      "type": "province",
+      "region": "Prairie Provinces",
+      "capital": "Edmonton"
+    }
+  },
+  {
+    "siteName": "Áísínai'pi✝",
+    "description": "Also known as Writing-on-Stone Provincial Park, it serves as both a nature preserve and protection for a large number of aboriginal rock carvings and paintings",
+    "dates": [],
+    "designated": "2004",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Petroglyph_from_Writing-on-Stone_Provincial_Park.jpg",
+    "location": {
+      "town": "Milk River",
+      "latitude": "49.08194",
+      "longitude": "-111.61694"
+    },
+    "provinceOrTerritory": {
+      "code": "AB",
+      "name": "Alberta",
+      "type": "province",
+      "region": "Prairie Provinces",
+      "capital": "Edmonton"
+    }
+  },
+  {
+    "siteName": "Athabasca Pass",
+    "description": "A major point on the fur trade route between Rupert's Land and the Columbia District, used by the York Factory Express",
+    "dates": [
+      {
+        "year": "1811",
+        "type": "first documented by non-Aboriginal people"
+      }
+    ],
+    "designated": "1971",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/51/Athabasca_Pass_sign.jpg",
+    "location": {
+      "town": "Jasper National Park",
+      "latitude": "52.37639",
+      "longitude": "-118.18333"
+    },
+    "provinceOrTerritory": {
+      "code": "AB",
+      "name": "Alberta",
+      "type": "province",
+      "region": "Prairie Provinces",
+      "capital": "Edmonton"
+    }
+  },
+  {
+    "siteName": "Atlas No. 3 Coal Mine",
+    "description": "An exceptionally well-preserved coal-mining landscape; played a significant role in the coal history of the Drumheller Valley, the most productive plains coalfield in Alberta and southeastern British Columbia",
+    "dates": [
+      {
+        "year": "1936",
+        "type": "opened"
+      }
+    ],
+    "designated": "2001",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Atlas_coal_mine.jpg/80px-Atlas_coal_mine.jpg",
+    "location": {
+      "town": "Drumheller",
+      "latitude": "51.3286306",
+      "longitude": "-112.4825111"
+    },
+    "provinceOrTerritory": {
+      "code": "AB",
+      "name": "Alberta",
+      "type": "province",
+      "region": "Prairie Provinces",
+      "capital": "Edmonton"
+    }
+  },
+  {
+    "siteName": "Banff Park Museum",
+    "description": "A rustic log-faced building set prominently within a landscaped park in the Banff townsite, containing early botanical and zoological exhibits from Banff National Park in early twentieth-century glass cases",
+    "dates": [
+      {
+        "year": "1903",
+        "type": "completed"
+      }
+    ],
+    "designated": "1985",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Banff_Park_Museum_1.jpg/80px-Banff_Park_Museum_1.jpg",
+    "location": {
+      "town": "Banff National Park",
+      "latitude": "51.1737694",
+      "longitude": "-115.571639"
+    },
+    "provinceOrTerritory": {
+      "code": "AB",
+      "name": "Alberta",
+      "type": "province",
+      "region": "Prairie Provinces",
+      "capital": "Edmonton"
+    }
+  },
+  {
+    "siteName": "Banff Springs Hotel",
+    "description": "A former railway hotel constructed in Scottish Baronial style at the base of Sulphur Mountain, built to replace a wooden 1888 hotel which burned down in 1926",
+    "dates": [
+      {
+        "year": "1928",
+        "type": "completed"
+      }
+    ],
+    "designated": "1988",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Fairmont_Banff_Springs_Hotel.jpg/80px-Fairmont_Banff_Springs_Hotel.jpg",
+    "location": {
+      "town": "Banff National Park",
+      "latitude": "51.164500",
+      "longitude": "-115.563250"
+    },
+    "provinceOrTerritory": {
+      "code": "AB",
+      "name": "Alberta",
+      "type": "province",
+      "region": "Prairie Provinces",
+      "capital": "Edmonton"
+    }
+  },
+  {
+    "siteName": "223 Robert Street",
+    "description": "A good example of the Queen Anne Revival Style in domestic architecture.",
+    "dates": [
+      {
+        "year": "1905",
+        "type": "completed"
+      }
+    ],
+    "designated": "1990",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/223_Robert_Street%2C_Victoria%2C_British_Columbia%2C_Canada_04.jpg/320px-223_Robert_Street%2C_Victoria%2C_British_Columbia%2C_Canada_04.jpg",
+    "location": {
+      "town": "Victoria",
+      "latitude": "48.4292278",
+      "longitude": "-123.3888667"
+    },
+    "provinceOrTerritory": {
+      "code": "BC",
+      "name": "British Columbia",
+      "type": "province",
+      "region": "West Coast",
+      "capital": "Victoria"
+    }
+  },
+  {
+    "siteName": "Abbotsford Sikh Temple",
+    "description": "The oldest surviving Sikh temple in Canada; the Temple played an important role in the first phase of Sikh immigration to Canada, and represents an adaptation of Sikh religious traditions to Canadian architectural norms of the early 20th century",
+    "dates": [
+      {
+        "year": "1912",
+        "type": "completed"
+      }
+    ],
+    "designated": "2002",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Gur_Sikh_Temple_01.jpg/320px-Gur_Sikh_Temple_01.jpg",
+    "location": {
+      "town": "Abbotsford",
+      "latitude": "49.0508083",
+      "longitude": "-122.3075306"
+    },
+    "provinceOrTerritory": {
+      "code": "BC",
+      "name": "British Columbia",
+      "type": "province",
+      "region": "West Coast",
+      "capital": "Victoria"
+    }
+  },
+  {
+    "siteName": "Barkerville",
+    "description": "The epicentre of the Cariboo Gold Rush, the catalyst for the economic and political development of British Columbia; the town was eventually abandoned and became a ghost town, but restoration commenced in 1958",
+    "dates": [
+      {
+        "year": "1862",
+        "type": "founded"
+      }
+    ],
+    "designated": "1924",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Barkerville_BC_-_Church.jpg/360px-Barkerville_BC_-_Church.jpg",
+    "location": {
+      "town": "Barkerville",
+      "latitude": "53.06583",
+      "longitude": "-121.51722"
+    },
+    "provinceOrTerritory": {
+      "code": "BC",
+      "name": "British Columbia",
+      "type": "province",
+      "region": "West Coast",
+      "capital": "Victoria"
+    }
+  },
+  {
+    "siteName": "Bay Street Drill Hall",
+    "description": "A two-storey drill hall with Tudor Revival elements, built during the 1896 to 1918 period when over 100 drill halls and armouries were erected across Canada; its scale reflects the dramatic increase in military participation following Canada's performance during the Second Boer War",
+    "dates": [
+      {
+        "year": "1915",
+        "type": "completed"
+      }
+    ],
+    "designated": "1989",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Bay-Street-Armoury%2C-Victoria.jpg/320px-Bay-Street-Armoury%2C-Victoria.jpg",
+    "location": {
+      "town": "Victoria",
+      "latitude": "48.4352083",
+      "longitude": "-123.3639333"
+    },
+    "provinceOrTerritory": {
+      "code": "BC",
+      "name": "British Columbia",
+      "type": "province",
+      "region": "West Coast",
+      "capital": "Victoria"
+    }
+  },
+  {
+    "siteName": "Begbie Hall",
+    "description": "A three-storey purpose-built nurses' residence; commemorates the growing professionalism of nursing in the early 20th century, and the contribution of nurses to health care in Canada",
+    "dates": [
+      {
+        "year": "1926",
+        "type": "completed"
+      }
+    ],
+    "designated": "1989",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Begbie_Hall_Victoria-BC.JPG/320px-Begbie_Hall_Victoria-BC.JPG",
+    "location": {
+      "town": "Victoria",
+      "latitude": "48.4322194",
+      "longitude": "-123.3266833"
+    },
+    "provinceOrTerritory": {
+      "code": "BC",
+      "name": "British Columbia",
+      "type": "province",
+      "region": "West Coast",
+      "capital": "Victoria"
+    }
+  },
+  {
+    "siteName": "Binning Residence",
+    "description": "A small two-bedroom house built for artist B. C. Binning; a very early illustration of the Modern movement in residential architecture in Canada, with a design that had a lasting and important impact on post-war architecture throughout the 1950s and 1960s",
+    "dates": [
+      {
+        "year": "1941",
+        "type": "completed"
+      }
+    ],
+    "designated": "1998",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Binning_House_Plaque_Feb._2008.JPG/320px-Binning_House_Plaque_Feb._2008.JPG",
+    "location": {
+      "town": "West Vancouver",
+      "latitude": "49.3402528",
+      "longitude": "-123.1966500"
+    },
+    "provinceOrTerritory": {
+      "code": "BC",
+      "name": "British Columbia",
+      "type": "province",
+      "region": "West Coast",
+      "capital": "Victoria"
+    }
+  },
+  {
+    "siteName": "Boat Encampment",
+    "description": "First visited by David Thompson in 1811, the site was an important trans-shipment point for the Hudson's Bay Company Express fur brigades moving to and from the Columbia River across the continent; the site was flooded by hydroelectric development of the river in 1973, and the marker now rests on a point in the Sprague Bay Recreation Site",
+    "dates": [
+      {
+        "year": "1811",
+        "type": "established"
+      }
+    ],
+    "designated": "1943",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/MicaDam.JPG/320px-MicaDam.JPG",
+    "location": {
+      "town": "Warsaw Mountain, Red Rock Bay",
+      "latitude": "52.11667",
+      "longitude": "-118.43333"
+    },
+    "provinceOrTerritory": {
+      "code": "BC",
+      "name": "British Columbia",
+      "type": "province",
+      "region": "West Coast",
+      "capital": "Victoria"
+    }
+  },
+  {
+    "siteName": "Britannia Mines Concentrator",
+    "description": "A gravity-fed concentrator used to process copper ore for one of Canada's largest mining operations in the 1920s and 1930s; illustrative of the innovation that made the Britannia Mines an important site in Canadian mining history",
+    "dates": [
+      {
+        "year": "1923",
+        "type": "completed"
+      }
+    ],
+    "designated": "1987",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/W4_IMG_0121.jpg/320px-W4_IMG_0121.jpg",
+    "location": {
+      "town": "Britannia Beach",
+      "latitude": "49.6332861",
+      "longitude": "-123.1998250"
+    },
+    "provinceOrTerritory": {
+      "code": "BC",
+      "name": "British Columbia",
+      "type": "province",
+      "region": "West Coast",
+      "capital": "Victoria"
+    }
+  },
+  {
+    "siteName": "Britannia Shipyard",
+    "description": "A boatworks and shipyard located along the south arm of the Fraser River part of Steveston's historic \"Cannery Row\"; noted for its historic association with the construction and repair of salmon fishery boats for Canada's Pacific Coast salmon fishery",
+    "dates": [
+      {
+        "year": "1890",
+        "type": "established"
+      }
+    ],
+    "designated": "1991",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Britannia_Heritage_Shipyards.jpg/320px-Britannia_Heritage_Shipyards.jpg",
+    "location": {
+      "town": "Richmond",
+      "latitude": "49.1210750",
+      "longitude": "-123.1692278"
+    },
+    "provinceOrTerritory": {
+      "code": "BC",
+      "name": "British Columbia",
+      "type": "province",
+      "region": "West Coast",
+      "capital": "Victoria"
+    }
+  },
+  {
+    "siteName": "Butchart Gardens",
+    "description": "Internationally known gardens, including remarkable Sunken Garden in a former limestone quarry; unique combination of 3 aspects of Canadian gardening history: early 20th-century estate garden, early twentieth century beautification movement, and the Victorian bedding out system",
+    "dates": [
+      {
+        "year": "1904",
+        "type": "established"
+      }
+    ],
+    "designated": "2004",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Sunken_Garden.jpg/360px-Sunken_Garden.jpg",
+    "location": {
+      "town": "Brentwood Bay",
+      "latitude": "48.56528",
+      "longitude": "-123.46944"
+    },
+    "provinceOrTerritory": {
+      "code": "BC",
+      "name": "British Columbia",
+      "type": "province",
+      "region": "West Coast",
+      "capital": "Victoria"
+    }
+  },
+  {
+    "siteName": "Battle of Seven Oaks",
+    "description": "The site of a violent conflict between a group of Métis led by Cuthbert Grant and a party of Red River settlers led by Governor Robert Semple",
+    "dates": [
+      {
+        "year": "1816",
+        "type": "battle"
+      }
+    ],
+    "designated": "1920",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Seven_Oaks_Monument_2.JPG/360px-Seven_Oaks_Monument_2.JPG",
+    "location": {
+      "town": "Winnipeg",
+      "latitude": "49.93194",
+      "longitude": "-97.12111"
+    },
+    "provinceOrTerritory": {
+      "code": "MB",
+      "name": "Manitoba",
+      "type": "province",
+      "region": "Prairie Provinces",
+      "capital": "Winnipeg"
+    }
+  },
+  {
+    "siteName": "BCATP Hangar No. 1",
+    "description": "A well-preserved example of a British Commonwealth Air Training Plan hangar from the Second World War, still in its original location",
+    "dates": [
+      {
+        "year": "1941",
+        "type": "completed"
+      }
+    ],
+    "designated": "2001",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Fairchild_Cornell.jpg/320px-Fairchild_Cornell.jpg",
+    "location": {
+      "town": "Brandon",
+      "latitude": "49.90444",
+      "longitude": "-99.94417"
+    },
+    "provinceOrTerritory": {
+      "code": "MB",
+      "name": "Manitoba",
+      "type": "province",
+      "region": "Prairie Provinces",
+      "capital": "Winnipeg"
+    }
+  },
+  {
+    "siteName": "Brockinton",
+    "description": "An archaeological site with evidence of three distinct cultures: a bison kill and butchering pound circa 800 AD, a Duck Bay culture occupation about 1100–1350, and the first excavated evidence in Canada of the Williams culture from about 1600",
+    "dates": [
+      {
+        "year": "800 ",
+        "type": "AD (c.)"
+      }
+    ],
+    "designated": "1973",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Brockington_Pound_Historic_Site.jpg/320px-Brockington_Pound_Historic_Site.jpg",
+    "location": {
+      "town": "Melita",
+      "latitude": "49.14750",
+      "longitude": "-101.02972"
+    },
+    "provinceOrTerritory": {
+      "code": "MB",
+      "name": "Manitoba",
+      "type": "province",
+      "region": "Prairie Provinces",
+      "capital": "Winnipeg"
+    }
+  },
+  {
+    "siteName": "Brookside Cemetery",
+    "description": "Largest and one of the oldest cemeteries in the West, noted for its picturesque design and Field of Honour",
+    "dates": [
+      {
+        "year": "1878",
+        "type": ""
+      }
+    ],
+    "designated": "2023",
+    "location": {
+      "town": "Winnipeg",
+      "latitude": "49.9205",
+      "longitude": "-97.2224"
+    },
+    "provinceOrTerritory": {
+      "code": "MB",
+      "name": "Manitoba",
+      "type": "province",
+      "region": "Prairie Provinces",
+      "capital": "Winnipeg"
+    }
+  },
+  {
+    "siteName": "Camp Hughes",
+    "description": "More than 38,000 Canadians trained at this camp during the First World War, many of whom fought at the Battle of Vimy Ridge in April 1917",
+    "dates": [
+      {
+        "year": "1909",
+        "type": "established"
+      }
+    ],
+    "designated": "2011",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Scene_taken_at_Camp_Hughes_%28then_Camp_Sewell%29_Manitoba%2C_2_weeks_previous_to_declaration_of_war%2C_1914_%28II%29.jpg",
+    "location": {
+      "town": "North Cypress",
+      "latitude": "49.8837417",
+      "longitude": "-99.5513389"
+    },
+    "provinceOrTerritory": {
+      "code": "MB",
+      "name": "Manitoba",
+      "type": "province",
+      "region": "Prairie Provinces",
+      "capital": "Winnipeg"
+    }
+  },
+  {
+    "siteName": "Canadian Pacific Railway Station (Winnipeg)",
+    "description": "A four-storey former railway station; its landmark Beaux-Arts design and elaborate Tyndall stone detailing reflect the early 20th century growth and importance of both the Canadian Pacific Railway and Winnipeg as Western Canada's transportation hub",
+    "dates": [
+      {
+        "year": "1906",
+        "type": "completed"
+      }
+    ],
+    "designated": "1982",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Canadian_Pacific_Railway_Station_Winnipeg.jpg",
+    "location": {
+      "town": "Winnipeg",
+      "latitude": "49.90472",
+      "longitude": "-97.13167"
+    },
+    "provinceOrTerritory": {
+      "code": "MB",
+      "name": "Manitoba",
+      "type": "province",
+      "region": "Prairie Provinces",
+      "capital": "Winnipeg"
+    }
+  },
+  {
+    "siteName": "1 Chipman Hill",
+    "description": "Symbolic of upper-middle class urban housing in Saint John during the mid-19th century; features a variety of decorative trompe-l'œil wall and ceiling murals",
+    "dates": [
+      {
+        "year": "1854",
+        "type": "completed"
+      }
+    ],
+    "designated": "1984",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/1_Chipman_Hill.JPG/360px-1_Chipman_Hill.JPG",
+    "location": {
+      "town": "Saint John",
+      "latitude": "45.2740722",
+      "longitude": "-66.0631750"
+    },
+    "provinceOrTerritory": {
+      "code": "NB",
+      "name": "New Brunswick",
+      "type": "province",
+      "region": "Atlantic region",
+      "capital": "Fredericton"
+    }
+  },
+  {
+    "siteName": "Arts Building",
+    "description": "A classically inspired masonry structure at the University of New Brunswick; the oldest university building in Canada still in continuous use",
+    "dates": [
+      {
+        "year": "1827",
+        "type": "completed"
+      }
+    ],
+    "designated": "1951",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/UNB_OldArtsBuilding.JPG/320px-UNB_OldArtsBuilding.JPG",
+    "location": {
+      "town": "Fredericton",
+      "latitude": "45.9483139",
+      "longitude": "-66.6412917"
+    },
+    "provinceOrTerritory": {
+      "code": "NB",
+      "name": "New Brunswick",
+      "type": "province",
+      "region": "Atlantic region",
+      "capital": "Fredericton"
+    }
+  },
+  {
+    "siteName": "Augustine Mound",
+    "description": "A circular ritual site surrounding a burial mound; a sacred site representative of Mi'kmaq spirituality, exhibiting Adena burial rituals",
+    "dates": [
+      {
+        "year": "500",
+        "type": "BCE, established"
+      }
+    ],
+    "designated": "1975",
+    "image": "",
+    "location": {
+      "town": "Metepenagiag Mi'kmaq Nation",
+      "latitude": "46.9301028",
+      "longitude": "-65.8222389"
+    },
+    "provinceOrTerritory": {
+      "code": "NB",
+      "name": "New Brunswick",
+      "type": "province",
+      "region": "Atlantic region",
+      "capital": "Fredericton"
+    }
+  },
+  {
+    "siteName": "Beaubears Island Shipbuilding",
+    "description": "A 24-hectare (59-acre) site featuring the remains of an early 19th-century shipyard typical of a New Brunswick one in its time; an undisturbed cultural landscape combining national and archaeological features associated with 19th-century shipbuilding in eastern Canada",
+    "dates": [
+      {
+        "year": "1790",
+        "type": "established"
+      }
+    ],
+    "designated": "2001",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Beaubears_Island.JPG/320px-Beaubears_Island.JPG",
+    "location": {
+      "town": "Miramichi",
+      "latitude": "46.977535",
+      "longitude": "-65.561670"
+    },
+    "provinceOrTerritory": {
+      "code": "NB",
+      "name": "New Brunswick",
+      "type": "province",
+      "region": "Atlantic region",
+      "capital": "Fredericton"
+    }
+  },
+  {
+    "siteName": "Carleton Martello Tower",
+    "description": "A martello tower located across the harbour from downtown Saint John, built to protect the city from an American land attack during the War of 1812; representative of the type of coastal defence used by the British during the Napoleonic era",
+    "dates": [
+      {
+        "year": "1815",
+        "type": "completed"
+      }
+    ],
+    "designated": "1930",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Yang_010.jpg/320px-Yang_010.jpg",
+    "location": {
+      "town": "Saint John",
+      "latitude": "45.2520917",
+      "longitude": "-66.0759833"
+    },
+    "provinceOrTerritory": {
+      "code": "NB",
+      "name": "New Brunswick",
+      "type": "province",
+      "region": "Atlantic region",
+      "capital": "Fredericton"
+    }
+  },
+  {
+    "siteName": "Boishébert",
+    "description": "The site of a camp at Wilson's Point and additionally comprising most of the adjacent Beaubears Island where Acadians, under the leadership of Charles Deschamps de Boishébert, sought refuge from 1756 to 1760 during the Expulsion of the Acadians",
+    "dates": [
+      {
+        "year": "1756",
+        "type": "camp established"
+      }
+    ],
+    "designated": "1930",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Camp_d_Esperance.JPG/360px-Camp_d_Esperance.JPG",
+    "location": {
+      "town": "Miramichi",
+      "latitude": "46.9697694",
+      "longitude": "-65.5786083"
+    },
+    "provinceOrTerritory": {
+      "code": "NB",
+      "name": "New Brunswick",
+      "type": "province",
+      "region": "Atlantic region",
+      "capital": "Fredericton"
+    }
+  },
+  {
+    "siteName": "Basilica of St. John the Baptist",
+    "description": "Stone cathedral, constructed in the Lombard Romanesque Revival style, which has played an important role in the province's religious, political and social history",
+    "dates": [
+      {
+        "year": "1855",
+        "type": "completed"
+      }
+    ],
+    "designated": "1983",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/St_John%27s_Basilica.jpg/320px-St_John%27s_Basilica.jpg",
+    "location": {
+      "town": "St. John's",
+      "latitude": "47.56722",
+      "longitude": "-52.71000"
+    },
+    "provinceOrTerritory": {
+      "code": "NL",
+      "name": "Newfoundland and Labrador",
+      "type": "province",
+      "region": "Atlantic region",
+      "capital": "St. John's"
+    }
+  },
+  {
+    "siteName": "Battle Harbour Historic District",
+    "description": "A noted example of a traditional outport fishing community; the buildings, structures and open spaces evoke the fishing outports of the 19th and early 20th-century",
+    "dates": [
+      {
+        "year": "1770",
+        "type": "established"
+      }
+    ],
+    "designated": "1996",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/BattleHarbour_Labrador_2008.JPG/320px-BattleHarbour_Labrador_2008.JPG",
+    "location": {
+      "town": "Battle Harbour",
+      "latitude": "52.26667",
+      "longitude": "-55.58694"
+    },
+    "provinceOrTerritory": {
+      "code": "NL",
+      "name": "Newfoundland and Labrador",
+      "type": "province",
+      "region": "Atlantic region",
+      "capital": "St. John's"
+    }
+  },
+  {
+    "siteName": "Boyd's Cove Beothuk",
+    "description": "A major archaeological site which has substantially increased the knowledge of the early history and demise of the Beothuk people",
+    "dates": [
+      {
+        "year": "3000",
+        "type": "BCE, human occupation"
+      }
+    ],
+    "designated": "1995",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Shanawdithit_%28Boyd%27s_Cove%2C_NL%29_crop.jpg/360px-Shanawdithit_%28Boyd%27s_Cove%2C_NL%29_crop.jpg",
+    "location": {
+      "town": "Boyd's Cove",
+      "latitude": "49.45722",
+      "longitude": "-54.63667"
+    },
+    "provinceOrTerritory": {
+      "code": "NL",
+      "name": "Newfoundland and Labrador",
+      "type": "province",
+      "region": "Atlantic region",
+      "capital": "St. John's"
+    }
+  },
+  {
+    "siteName": "Cable Building",
+    "description": "Newfoundland was a major telecommunications hub at the beginning of the 20th century as it offered the shortest link between North America and Europe; the building was the main relay for the transatlantic network of the Western Union Telegraph Company",
+    "dates": [
+      {
+        "year": "1913",
+        "type": "completed"
+      }
+    ],
+    "designated": "2008",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Cablebuilding.jpg/311px-Cablebuilding.jpg",
+    "location": {
+      "town": "Bay Roberts",
+      "latitude": "47.59639",
+      "longitude": "-53.25444"
+    },
+    "provinceOrTerritory": {
+      "code": "NL",
+      "name": "Newfoundland and Labrador",
+      "type": "province",
+      "region": "Atlantic region",
+      "capital": "St. John's"
+    }
+  },
+  {
+    "siteName": "Cape Pine Lighthouse",
+    "description": "First of a series of prefabricated iron lighthouses erected in Newfoundland in the 19th century, for transport to and erection at rugged sites; the first landfall light built on the dangerous south coast of the Avalon Peninsula to guide shipping through the Cabot Strait",
+    "dates": [
+      {
+        "year": "1851",
+        "type": "completed"
+      }
+    ],
+    "designated": "1974",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Cape_Pine_lighthouse.jpg/320px-Cape_Pine_lighthouse.jpg",
+    "location": {
+      "town": "Cape Pine",
+      "latitude": "46.61722",
+      "longitude": "-53.53222"
+    },
+    "provinceOrTerritory": {
+      "code": "NL",
+      "name": "Newfoundland and Labrador",
+      "type": "province",
+      "region": "Atlantic region",
+      "capital": "St. John's"
+    }
+  },
+  {
+    "siteName": "Former Newfoundland Railway Headquarters",
+    "description": "A two-and-a-half-storey stone building with both Second Empire and Château design elements; commemorates the important role played by the Newfoundland Railway in the social, economic and political history of the province",
+    "dates": [
+      {
+        "year": "1903",
+        "type": ""
+      }
+    ],
+    "designated": "1988",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Coastal_Railway_Museum%2C_St._John%27s%2C_Newfoundland.jpg/320px-Coastal_Railway_Museum%2C_St._John%27s%2C_Newfoundland.jpg",
+    "location": {
+      "town": "St. John's",
+      "latitude": "47.331621",
+      "longitude": "-52.424913"
+    },
+    "provinceOrTerritory": {
+      "code": "NL",
+      "name": "Newfoundland and Labrador",
+      "type": "province",
+      "region": "Atlantic region",
+      "capital": "St. John's"
+    }
+  },
+  {
+    "siteName": "Acacia Grove / Prescott House",
+    "description": "A house on an extensive property in the Annapolis Valley, built for horticulturalist Charles Ramage Prescott; a noted example of Georgian architecture in Canada",
+    "dates": [
+      {
+        "year": "1809",
+        "type": "completed"
+      }
+    ],
+    "designated": "1969",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/PrescottHouse_Front_2009.jpg/480px-PrescottHouse_Front_2009.jpg",
+    "location": {
+      "town": "Starr's Point",
+      "latitude": "45.11056",
+      "longitude": "-64.37889"
+    },
+    "provinceOrTerritory": {
+      "code": "NS",
+      "name": "Nova Scotia",
+      "type": "province",
+      "region": "Atlantic region",
+      "capital": "Halifax"
+    }
+  },
+  {
+    "siteName": "Admiralty House",
+    "description": "An austere two-storey stone mansion set within the Stadacona site of CFB Halifax which served as the home of Commander-in-Chief of the Royal Navy’s North American station from 1819 until 1904",
+    "dates": [
+      {
+        "year": "1819",
+        "type": "completed"
+      }
+    ],
+    "designated": "1978",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Admiralty_House_Halifax.jpg/320px-Admiralty_House_Halifax.jpg",
+    "location": {
+      "town": "Halifax",
+      "latitude": "44.65944",
+      "longitude": "-63.59278"
+    },
+    "provinceOrTerritory": {
+      "code": "NS",
+      "name": "Nova Scotia",
+      "type": "province",
+      "region": "Atlantic region",
+      "capital": "Halifax"
+    }
+  },
+  {
+    "siteName": "Africville",
+    "description": "A Black Nova Scotian community cleared by the municipality in the 1960s in the name of urban renewal; the community was representative of Black settlements in the province and became an enduring symbol of the need for vigilance in defense of Black communities and institutions",
+    "dates": [
+      {
+        "year": "1964",
+        "type": "relocation commenced"
+      }
+    ],
+    "designated": "1996",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Africville_and_bridge.jpg/180px-Africville_and_bridge.jpg",
+    "location": {
+      "town": "Halifax",
+      "latitude": "44.67444",
+      "longitude": "-63.61861"
+    },
+    "provinceOrTerritory": {
+      "code": "NS",
+      "name": "Nova Scotia",
+      "type": "province",
+      "region": "Atlantic region",
+      "capital": "Halifax"
+    }
+  },
+  {
+    "siteName": "Alexander Graham Bell",
+    "description": "A museum containing Alexander Graham Bell memorabilia, located on a 10-hectare (25-acre) property overlooking Bras d'Or Lake and Bell's summer estate at Beinn Bhreagh",
+    "dates": [
+      {
+        "year": "1954",
+        "type": "museum completed"
+      }
+    ],
+    "designated": "1952",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Visitor_Centre_at_the_Alexander_Graham_Bell_National_Historic_Site_of_Canada.JPG/320px-Visitor_Centre_at_the_Alexander_Graham_Bell_National_Historic_Site_of_Canada.JPG",
+    "location": {
+      "town": "Baddeck",
+      "latitude": "46.10278",
+      "longitude": "-60.74583"
+    },
+    "provinceOrTerritory": {
+      "code": "NS",
+      "name": "Nova Scotia",
+      "type": "province",
+      "region": "Atlantic region",
+      "capital": "Halifax"
+    }
+  },
+  {
+    "siteName": "Annapolis County Court House",
+    "description": "One of the oldest court houses in Canada still in original use, and a noted example of Palladian architecture in this country",
+    "dates": [
+      {
+        "year": "1837",
+        "type": "completed"
+      }
+    ],
+    "designated": "1991",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Annapolis_County_Courthouse.jpg/320px-Annapolis_County_Courthouse.jpg",
+    "location": {
+      "town": "Annapolis Royal",
+      "latitude": "44.74194",
+      "longitude": "-65.51611"
+    },
+    "provinceOrTerritory": {
+      "code": "NS",
+      "name": "Nova Scotia",
+      "type": "province",
+      "region": "Atlantic region",
+      "capital": "Halifax"
+    }
+  },
+  {
+    "siteName": "Annapolis Royal Historic District",
+    "description": "A historic core containing commercial, military, and residential buildings from the 18th to early 20th centuries, located at the centre of the original 17th-century Acadian settlement; the site of several pivotal events during the early years of the colonisation of Canada",
+    "dates": [
+      {
+        "year": "1605",
+        "type": "established"
+      }
+    ],
+    "designated": "1994",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/16/Port_Royal%2C_Nova_Scotia_-_circa_1612_-_Project_Gutenberg_etext_20110.jpg",
+    "location": {
+      "town": "Annapolis Royal",
+      "latitude": "44.74167",
+      "longitude": "-65.51417"
+    },
+    "provinceOrTerritory": {
+      "code": "NS",
+      "name": "Nova Scotia",
+      "type": "province",
+      "region": "Atlantic region",
+      "capital": "Halifax"
+    }
+  },
+  {
+    "siteName": "Argyle Township Court House and Jail",
+    "description": "A two-storey wooden building constructed in the colonial meeting house style, now serving as a museum; the oldest known surviving combined court house and jail",
+    "dates": [
+      {
+        "year": "1805",
+        "type": "completed"
+      }
+    ],
+    "designated": "2005",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Argyle_Township_Court_House_and_Gaol.jpg/360px-Argyle_Township_Court_House_and_Gaol.jpg",
+    "location": {
+      "town": "Tusket",
+      "latitude": "43.85500",
+      "longitude": "-65.97444"
+    },
+    "provinceOrTerritory": {
+      "code": "NS",
+      "name": "Nova Scotia",
+      "type": "province",
+      "region": "Atlantic region",
+      "capital": "Halifax"
+    }
+  },
+  {
+    "siteName": "Beaubassin",
+    "description": "An archaeological site with remains from a major Acadian settlement that played a pivotal role in the 17th- and 18th-century struggle between the British and French for the region; the site also contains the Fort Lawrence NHS",
+    "dates": [
+      {
+        "year": "1672",
+        "type": "established"
+      }
+    ],
+    "designated": "2005",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4c/MonumentatBattleatChignecto.jpg",
+    "location": {
+      "town": "Fort Lawrence",
+      "latitude": "45.8484944",
+      "longitude": "-64.2668000"
+    },
+    "provinceOrTerritory": {
+      "code": "NS",
+      "name": "Nova Scotia",
+      "type": "province",
+      "region": "Atlantic region",
+      "capital": "Halifax"
+    }
+  },
+  {
+    "siteName": "Adelaide Hunter Hoodless Homestead",
+    "description": "The childhood home of activist and organizer Adelaide Hunter Hoodless, educational reformer and co-founder of the Women's Institute, the National Council of Women of Canada and the Victorian Order of Nurses",
+    "dates": [
+      {
+        "year": "1839",
+        "type": "completed"
+      }
+    ],
+    "designated": "1995",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Hoodless_Homestead_NHS.jpg",
+    "location": {
+      "town": "Brant County",
+      "latitude": "43.23694",
+      "longitude": "-80.29667"
+    },
+    "provinceOrTerritory": {
+      "code": "ON",
+      "name": "Ontario",
+      "type": "province",
+      "region": "Central Canada",
+      "capital": "Toronto"
+    }
+  },
+  {
+    "siteName": "Algoma Central Engine House",
+    "description": "A well-preserved example of a brick engine house, and the first in Canada to have an internal turntable",
+    "dates": [
+      {
+        "year": "1912",
+        "type": "completed"
+      }
+    ],
+    "designated": "1992",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Algoma_Central_Engine_House_23.JPG/320px-Algoma_Central_Engine_House_23.JPG",
+    "location": {
+      "town": "Sault Ste. Marie",
+      "latitude": "46.5281611",
+      "longitude": "-84.3505389"
+    },
+    "provinceOrTerritory": {
+      "code": "ON",
+      "name": "Ontario",
+      "type": "province",
+      "region": "Central Canada",
+      "capital": "Toronto"
+    }
+  },
+  {
+    "siteName": "Algonquin Provincial Park",
+    "description": "The first provincial park in Canada, noted for its pioneering role in park management, visitor interpretation programs and the development of park buildings and structures, as well as its role in inspiring artists such as the Group of Seven",
+    "dates": [
+      {
+        "year": "1893",
+        "type": "established"
+      }
+    ],
+    "designated": "1992",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Algonquin_Cache_Lake_Lookout.JPG/320px-Algonquin_Cache_Lake_Lookout.JPG",
+    "location": {
+      "town": "Nipissing",
+      "latitude": "45.58417",
+      "longitude": "-78.35833"
+    },
+    "provinceOrTerritory": {
+      "code": "ON",
+      "name": "Ontario",
+      "type": "province",
+      "region": "Central Canada",
+      "capital": "Toronto"
+    }
+  },
+  {
+    "siteName": "Amherstburg Navy Yard",
+    "description": "The site of a Royal Navy shipyard from 1796–1813, which served as the hub of the British naval presence on the upper Great Lakes",
+    "dates": [
+      {
+        "year": "1796",
+        "type": "established"
+      }
+    ],
+    "designated": "1928",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/King%27s_Navy_Yard_Park.jpg/330px-King%27s_Navy_Yard_Park.jpg",
+    "location": {
+      "town": "Amherstburg",
+      "latitude": "42.1018833",
+      "longitude": "-83.1125583"
+    },
+    "provinceOrTerritory": {
+      "code": "ON",
+      "name": "Ontario",
+      "type": "province",
+      "region": "Central Canada",
+      "capital": "Toronto"
+    }
+  },
+  {
+    "siteName": "Dundurn Castle",
+    "description": "Picturesque-style villa of magnate Sir Allan Napier MacNab, 1st Baronet",
+    "dates": [
+      {
+        "year": "1835",
+        "type": "completed"
+      }
+    ],
+    "designated": "1984",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/DundurnCastleSummer.JPG/320px-DundurnCastleSummer.JPG",
+    "location": {
+      "town": "Hamilton",
+      "latitude": "43.269481",
+      "longitude": "-79.884649"
+    },
+    "provinceOrTerritory": {
+      "code": "ON",
+      "name": "Ontario",
+      "type": "province",
+      "region": "Central Canada",
+      "capital": "Toronto"
+    }
+  },
+  {
+    "siteName": "Erland Lee (Museum) Home",
+    "description": "A Carpenter Gothic farmhouse recognized as the birthplace of an important national and international women's movement, where the constitution of the first Women's Institute was drafted",
+    "dates": [
+      {
+        "year": "1808",
+        "type": "completed"
+      }
+    ],
+    "designated": "2002",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/LeeMuseum.JPG/330px-LeeMuseum.JPG",
+    "location": {
+      "town": "Hamilton",
+      "latitude": "43.20667",
+      "longitude": "-79.72167"
+    },
+    "provinceOrTerritory": {
+      "code": "ON",
+      "name": "Ontario",
+      "type": "province",
+      "region": "Central Canada",
+      "capital": "Toronto"
+    }
+  },
+  {
+    "siteName": "Fort Frontenac",
+    "description": "Originally a French trading post that served as a gateway to the West, the base of Robert de LaSalle’s explorations and a French outpost against the Iroquois and English forces",
+    "dates": [
+      {
+        "year": "1673",
+        "type": "original fort completed"
+      }
+    ],
+    "designated": "1923",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fort_Frontenac.JPG/320px-Fort_Frontenac.JPG",
+    "location": {
+      "town": "Kingston",
+      "latitude": "44.23333",
+      "longitude": "-76.47861"
+    },
+    "provinceOrTerritory": {
+      "code": "ON",
+      "name": "Ontario",
+      "type": "province",
+      "region": "Central Canada",
+      "capital": "Toronto"
+    }
+  },
+  {
+    "siteName": "Fort Henry",
+    "description": "British fort that served as the principal fortification among a series of military works designed to defend Kingston, its harbour and dockyard and the entrance to the Rideau Canal",
+    "dates": [
+      {
+        "year": "1840",
+        "type": "completed"
+      }
+    ],
+    "designated": "1923",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Carlb-fthenry-03.jpg/320px-Carlb-fthenry-03.jpg",
+    "location": {
+      "town": "Kingston",
+      "latitude": "44.2302639",
+      "longitude": "-76.4596806"
+    },
+    "provinceOrTerritory": {
+      "code": "ON",
+      "name": "Ontario",
+      "type": "province",
+      "region": "Central Canada",
+      "capital": "Toronto"
+    }
+  },
+  {
+    "siteName": "Battle of Beaver Dams",
+    "description": "The site of a decisive British victory during the War of 1812, after heroine Laura Secord had earlier struck out on a long and difficult trek to warn the British of an impending American attack",
+    "dates": [
+      {
+        "year": "1813",
+        "type": "battle"
+      }
+    ],
+    "designated": "1921",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Laura_Secord_warns_Fitzgibbons%2C_1813.jpg",
+    "location": {
+      "town": "Thorold",
+      "latitude": "43.117776",
+      "longitude": "-79.185419"
+    },
+    "provinceOrTerritory": {
+      "code": "ON",
+      "name": "Ontario",
+      "type": "province",
+      "region": "Central Canada",
+      "capital": "Toronto"
+    }
+  },
+  {
+    "siteName": "Battle of Chippawa",
+    "description": "The site of a battle that took place during the War of 1812 as a result of the last major American invasion of Canada",
+    "dates": [
+      {
+        "year": "1814",
+        "type": "battle"
+      }
+    ],
+    "designated": "1921",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Chippewa.jpg/330px-Chippewa.jpg",
+    "location": {
+      "town": "Chippawa",
+      "latitude": "43.052127",
+      "longitude": "-79.024720"
+    },
+    "provinceOrTerritory": {
+      "code": "ON",
+      "name": "Ontario",
+      "type": "province",
+      "region": "Central Canada",
+      "capital": "Toronto"
+    }
+  },
+  {
+    "siteName": "Central Chambers",
+    "description": "A noted example of Queen Anne Revival commercial architecture, with a high profile location on Confederation Square",
+    "dates": [
+      {
+        "year": "1891",
+        "type": "completed"
+      }
+    ],
+    "designated": "1990",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Chambers_Building_Ottawa.jpg/320px-Chambers_Building_Ottawa.jpg",
+    "location": {
+      "town": "Ottawa",
+      "latitude": "45.4232361",
+      "longitude": "-75.6952639"
+    },
+    "provinceOrTerritory": {
+      "code": "ON",
+      "name": "Ontario",
+      "type": "province",
+      "region": "Central Canada",
+      "capital": "Toronto"
+    }
+  },
+  {
+    "siteName": "Central Experimental Farm",
+    "description": "A rare example of a farm within a city; the site of significant scientific contributions to agriculture",
+    "dates": [
+      {
+        "year": "1886",
+        "type": "established"
+      }
+    ],
+    "designated": "1997",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/CEF_Agricultural_Museum.jpg/320px-CEF_Agricultural_Museum.jpg",
+    "location": {
+      "town": "Ottawa",
+      "latitude": "45.382537",
+      "longitude": "-75.713654"
+    },
+    "provinceOrTerritory": {
+      "code": "ON",
+      "name": "Ontario",
+      "type": "province",
+      "region": "Central Canada",
+      "capital": "Toronto"
+    }
+  },
+  {
+    "siteName": "Château Laurier",
+    "description": "One of Canada's landmark railway hotels, built in the distinctly Canadian Château-style; dubbed the \"Third Chamber of Parliament\" due to its proximity to Parliament Hill",
+    "dates": [
+      {
+        "year": "1912",
+        "type": "completion of first wing"
+      }
+    ],
+    "designated": "1980",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Ch%C3%A2teau_Laurier_West_Side_Ottawa.jpg/330px-Ch%C3%A2teau_Laurier_West_Side_Ottawa.jpg",
+    "location": {
+      "town": "Ottawa",
+      "latitude": "45.4255667",
+      "longitude": "-75.6951083"
+    },
+    "provinceOrTerritory": {
+      "code": "ON",
+      "name": "Ontario",
+      "type": "province",
+      "region": "Central Canada",
+      "capital": "Toronto"
+    }
+  },
+  {
+    "siteName": "Confederation Square",
+    "description": "The second most important ceremonial centre in Ottawa, after Parliament Hill, with Canada's National War Memorial at its centre and the Valiants Memorial at its periphery, and framed by the Château Laurier, the Government Conference Centre, the National Arts Centre, the Central Chambers, the Scottish-Ontario Chambers, the Central Post Office, the Langevin Block and the East Block",
+    "dates": [
+      {
+        "year": "1939",
+        "type": "established"
+      }
+    ],
+    "designated": "1984",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/War_Memorial_Guards_Ottawa.jpg/360px-War_Memorial_Guards_Ottawa.jpg",
+    "location": {
+      "town": "Ottawa",
+      "latitude": "45.4240889",
+      "longitude": "-75.695500"
+    },
+    "provinceOrTerritory": {
+      "code": "ON",
+      "name": "Ontario",
+      "type": "province",
+      "region": "Central Canada",
+      "capital": "Toronto"
+    }
+  },
+  {
+    "siteName": "Connaught Building",
+    "description": "A testament to Wilfrid Laurier’s commitment to enhance the architecture in Canada's capital; one of the best works of David Ewart, the Chief Dominion Architect from 1896 to 1914",
+    "dates": [
+      {
+        "year": "1916",
+        "type": "completed"
+      }
+    ],
+    "designated": "1990",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Connaught_Building_NW_Corner.jpg/320px-Connaught_Building_NW_Corner.jpg",
+    "location": {
+      "town": "Ottawa",
+      "latitude": "45.426562",
+      "longitude": "-75.694669"
+    },
+    "provinceOrTerritory": {
+      "code": "ON",
+      "name": "Ontario",
+      "type": "province",
+      "region": "Central Canada",
+      "capital": "Toronto"
+    }
+  },
+  {
+    "siteName": "Public Grounds of the Parliament Buildings",
+    "description": "The focal point for national celebrations in Ottawa; the grounds were originally designed by Calvert Vaux, and since supplemented by 18 monuments and memorials",
+    "dates": [
+      {
+        "year": "1875",
+        "type": "initial completion"
+      }
+    ],
+    "designated": "1976",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/East_Block_and_Langevin_Block.jpg/320px-East_Block_and_Langevin_Block.jpg",
+    "location": {
+      "town": "Ottawa",
+      "latitude": "45.424807",
+      "longitude": "-75.699234"
+    },
+    "provinceOrTerritory": {
+      "code": "ON",
+      "name": "Ontario",
+      "type": "province",
+      "region": "Central Canada",
+      "capital": "Toronto"
+    }
+  },
+  {
+    "siteName": "Rideau Canal",
+    "description": "Built for the British government by Lieutenant-Colonel John By as a defensive work in the event of war with the United States, the still-functioning canal is the best preserved example of a 19th-century slack water canal in North America, with most of its original structures intact; a World Heritage Site and a unique historic landmark in the central core of Ottawa",
+    "dates": [
+      {
+        "year": "1837",
+        "type": "completed"
+      }
+    ],
+    "designated": "1925",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Rideau_parliament_ottawa.jpg/320px-Rideau_parliament_ottawa.jpg",
+    "location": {
+      "town": "Ottawa to Kingston",
+      "latitude": "45.42583",
+      "longitude": "-75.69722"
+    },
+    "provinceOrTerritory": {
+      "code": "ON",
+      "name": "Ontario",
+      "type": "province",
+      "region": "Central Canada",
+      "capital": "Toronto"
+    }
+  },
+  {
+    "siteName": "Rideau Hall and Landscaped Grounds",
+    "description": "The official Ottawa residence of the Governor General of Canada and the Canadian monarch; excellent example of the transposition of the natural style of the English country estate to Canada",
+    "dates": [
+      {
+        "year": "1838",
+        "type": "completion of original vill"
+      }
+    ],
+    "designated": "1977",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/be/Rideau_Hall04.jpg",
+    "location": {
+      "town": "Ottawa",
+      "latitude": "45.4443694",
+      "longitude": "-75.685972"
+    },
+    "provinceOrTerritory": {
+      "code": "ON",
+      "name": "Ontario",
+      "type": "province",
+      "region": "Central Canada",
+      "capital": "Toronto"
+    }
+  },
+  {
+    "siteName": "Royal Canadian Mint",
+    "description": "Representative of the federal government's approach to using the Tudor Gothic architectural style to create a distinctive identity in Canada's capital; the construction of this building, combining a mint and a refinery for gold produced by Canadian mines, symbolized the patriation of control over Canada's currency from Britain",
+    "dates": [
+      {
+        "year": "1908",
+        "type": "completion of main building"
+      }
+    ],
+    "designated": "1979",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Royal_Canadian_Mint_Ottawa_Sept_2010.JPG/360px-Royal_Canadian_Mint_Ottawa_Sept_2010.JPG",
+    "location": {
+      "town": "Ottawa",
+      "latitude": "45.4311500",
+      "longitude": "-75.6992667"
+    },
+    "provinceOrTerritory": {
+      "code": "ON",
+      "name": "Ontario",
+      "type": "province",
+      "region": "Central Canada",
+      "capital": "Toronto"
+    }
+  },
+  {
+    "siteName": "Victoria Memorial Museum",
+    "description": "Built to house Canada's first national museum, the building originally served as the home of the National Gallery of Canada and of the geological and natural history collections of the Geological Survey of Canada, and then served as the temporary premises of the Parliament of Canada from 1916 to 1922 when the original Centre Block was destroyed by fire; now the home of the Canadian Museum of Nature",
+    "dates": [
+      {
+        "year": "1911",
+        "type": "completed"
+      }
+    ],
+    "designated": "1990",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Canadian_Museum_of_Nature_2.JPG/320px-Canadian_Museum_of_Nature_2.JPG",
+    "location": {
+      "town": "Ottawa",
+      "latitude": "45.41266",
+      "longitude": "-75.68875"
+    },
+    "provinceOrTerritory": {
+      "code": "ON",
+      "name": "Ontario",
+      "type": "province",
+      "region": "Central Canada",
+      "capital": "Toronto"
+    }
+  },
+  {
+    "siteName": "Annesley Hall",
+    "description": "The first purpose-built women's’ residence on a Canadian university campus, and a good example of the Queen Anne Revival style in institutional architecture",
+    "dates": [
+      {
+        "year": "1903",
+        "type": "completed"
+      }
+    ],
+    "designated": "1990",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/AnnesleyHallToronto.jpg/320px-AnnesleyHallToronto.jpg",
+    "location": {
+      "town": "Toronto",
+      "latitude": "43.66778",
+      "longitude": "-79.39306"
+    },
+    "provinceOrTerritory": {
+      "code": "ON",
+      "name": "Ontario",
+      "type": "province",
+      "region": "Central Canada",
+      "capital": "Toronto"
+    }
+  },
+  {
+    "siteName": "Balmoral Fire Hall",
+    "description": "A rare example of the Queen Anne Revival style used for a fire hall",
+    "dates": [
+      {
+        "year": "1911",
+        "type": "completed"
+      }
+    ],
+    "designated": "1990",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Toronto_Fire_Station_No._24.JPG/403px-Toronto_Fire_Station_No._24.JPG",
+    "location": {
+      "town": "Toronto",
+      "latitude": "43.685833",
+      "longitude": "-79.393870"
+    },
+    "provinceOrTerritory": {
+      "code": "ON",
+      "name": "Ontario",
+      "type": "province",
+      "region": "Central Canada",
+      "capital": "Toronto"
+    }
+  },
+  {
+    "siteName": "Eaton's 7th Floor Auditorium and Round Room",
+    "description": "A foyer, restaurant and auditorium, designed by French architect Jacques Carlu and muralist Natacha Carlu, located within the former Eaton's College Street department store; remarkable examples of Art Deco and Streamline Moderne interior design",
+    "dates": [
+      {
+        "year": "1930",
+        "type": "completed"
+      }
+    ],
+    "designated": "1983",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/TheCarlu.jpg/320px-TheCarlu.jpg",
+    "location": {
+      "town": "Toronto",
+      "latitude": "43.660929",
+      "longitude": "-79.383302"
+    },
+    "provinceOrTerritory": {
+      "code": "ON",
+      "name": "Ontario",
+      "type": "province",
+      "region": "Central Canada",
+      "capital": "Toronto"
+    }
+  },
+  {
+    "siteName": "Chapel of St. James-the-Less Anglican Church",
+    "description": "The Chapel is a noted example of High Victorian Gothic Revival architecture and exemplifies the small chapels built in this style in Canada",
+    "dates": [
+      {
+        "year": "1861",
+        "type": "completed"
+      }
+    ],
+    "designated": "1990",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/St._James_Cemetery_%2838471597761%29.jpg/320px-St._James_Cemetery_%2838471597761%29.jpg",
+    "location": {
+      "town": "Toronto",
+      "latitude": "43.669556",
+      "longitude": "-79.3689778"
+    },
+    "provinceOrTerritory": {
+      "code": "ON",
+      "name": "Ontario",
+      "type": "province",
+      "region": "Central Canada",
+      "capital": "Toronto"
+    }
+  },
+  {
+    "siteName": "Gouinlock Buildings / Early Exhibition Buildings",
+    "description": "Five buildings (the Fire Hall/Police Station, Government Building, Horticulture Building, Music Building and Press Building) on the grounds of the Canadian National Exhibition; the largest and finest group of early 20th century exhibition buildings in Canada",
+    "dates": [
+      {
+        "year": "1912",
+        "type": "completed"
+      }
+    ],
+    "designated": "1988",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Press_Building%2C_CNE_2008.jpg/320px-Press_Building%2C_CNE_2008.jpg",
+    "location": {
+      "town": "Toronto",
+      "latitude": "43.63278",
+      "longitude": "-79.41611"
+    },
+    "provinceOrTerritory": {
+      "code": "ON",
+      "name": "Ontario",
+      "type": "province",
+      "region": "Central Canada",
+      "capital": "Toronto"
+    }
+  },
+  {
+    "siteName": "Heliconian Hall",
+    "description": "Originally constructed as a church in Yorkville in the Carpenter Gothic style, the building has since 1923 served as a unique multidisciplinary arts club specifically for women",
+    "dates": [
+      {
+        "year": "1876",
+        "type": "completed"
+      }
+    ],
+    "designated": "2008",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Heliconian_Hall_side_view.JPG/320px-Heliconian_Hall_side_view.JPG",
+    "location": {
+      "town": "Toronto",
+      "latitude": "43.6719528",
+      "longitude": "-79.3933444"
+    },
+    "provinceOrTerritory": {
+      "code": "ON",
+      "name": "Ontario",
+      "type": "province",
+      "region": "Central Canada",
+      "capital": "Toronto"
+    }
+  },
+  {
+    "siteName": "Royal Alexandra Theatre",
+    "description": "One of the last theatres of its type built in Canada and arguably the best surviving example, it is a nationally significant theatre that has played a central role in the social and cultural life of Toronto",
+    "dates": [
+      {
+        "year": "1907",
+        "type": "completed"
+      }
+    ],
+    "designated": "1985",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Royal_Alexandra_Theatre_%288028082171%29.jpg/305px-Royal_Alexandra_Theatre_%288028082171%29.jpg",
+    "location": {
+      "town": "Toronto",
+      "latitude": "43.64741",
+      "longitude": "-79.38750"
+    },
+    "provinceOrTerritory": {
+      "code": "ON",
+      "name": "Ontario",
+      "type": "province",
+      "region": "Central Canada",
+      "capital": "Toronto"
+    }
+  },
+  {
+    "siteName": "Royal Conservatory of Music",
+    "description": "Originally constructed as the first home of McMaster University, Ihnatowycz Hall has housed the Royal Conservatory of Music since 1962; some of Canada's some of the most prominent musicians and music teachers have studied at the Conservatory, and it has played a significant role in music education across the country",
+    "dates": [
+      {
+        "year": "1881",
+        "type": "Ihnatowycz Hall completed"
+      }
+    ],
+    "designated": "1995",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Royal_Conservatory_of_Music.jpg/320px-Royal_Conservatory_of_Music.jpg",
+    "location": {
+      "town": "Toronto",
+      "latitude": "43.667972",
+      "longitude": "-79.3962500"
+    },
+    "provinceOrTerritory": {
+      "code": "ON",
+      "name": "Ontario",
+      "type": "province",
+      "region": "Central Canada",
+      "capital": "Toronto"
+    }
+  },
+  {
+    "siteName": "All Souls' Chapel",
+    "description": "A small chapel built of rust-red, Prince Edward Island sandstone, attached to St. Peter's Anglican Cathedral; known as an exceptional example of the High Victorian Gothic Revival style in Canada, and for its 18 interior mural paintings by Robert Harris",
+    "dates": [
+      {
+        "year": "1888",
+        "type": "completed"
+      }
+    ],
+    "designated": "1990",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Interior_of_All_Souls_Chapel.jpg/320px-Interior_of_All_Souls_Chapel.jpg",
+    "location": {
+      "town": "Charlottetown",
+      "latitude": "46.2340083",
+      "longitude": "-63.1326556"
+    },
+    "provinceOrTerritory": {
+      "code": "PE",
+      "name": "Prince Edward Island",
+      "type": "province",
+      "region": "Atlantic region",
+      "capital": "Charlottetown"
+    }
+  },
+  {
+    "siteName": "Apothecaries Hall",
+    "description": "A three-storey brick building in which an apothecary shop operated from 1810 to 1986, making it one of the oldest continually operated pharmacies in Canada",
+    "dates": [
+      {
+        "year": "1900",
+        "type": "completed"
+      }
+    ],
+    "designated": "1969",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Apothecaries_Hall%2C_Charlottetown%2C_PEI.jpg/262px-Apothecaries_Hall%2C_Charlottetown%2C_PEI.jpg",
+    "location": {
+      "town": "Charlottetown",
+      "latitude": "46.23472",
+      "longitude": "-63.1281000"
+    },
+    "provinceOrTerritory": {
+      "code": "PE",
+      "name": "Prince Edward Island",
+      "type": "province",
+      "region": "Atlantic region",
+      "capital": "Charlottetown"
+    }
+  },
+  {
+    "siteName": "Skmaqn—Port-la-Joye—Fort Amherst",
+    "description": "A hilly landscape on the west side of the channel entrance to Charlottetown harbour, with remnants of an 18th-century fort built by the French and later occupied by the British; the site was the seat of government and port of entry for settlers to Île Saint-Jean/Prince Edward Island",
+    "dates": [
+      {
+        "year": "1720",
+        "type": "established"
+      }
+    ],
+    "designated": "1958",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Fort_Amherst_photograph.jpg/320px-Fort_Amherst_photograph.jpg",
+    "location": {
+      "town": "Rocky Point",
+      "latitude": "46.197222",
+      "longitude": "-63.136944"
+    },
+    "provinceOrTerritory": {
+      "code": "PE",
+      "name": "Prince Edward Island",
+      "type": "province",
+      "region": "Atlantic region",
+      "capital": "Charlottetown"
+    }
+  },
+  {
+    "siteName": "St. Dunstan's Roman Catholic Basilica",
+    "description": "St. Dunstan's is the centre of the Roman Catholic Church in Prince Edward Island and the mother church of the diocese; it was elevated to the status of Basilica in 1929; a noted example of the High Victorian Gothic Revival style in Canada",
+    "dates": [
+      {
+        "year": "1907",
+        "type": "completed"
+      }
+    ],
+    "designated": "1990",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/St._Dunstan%27s_Basilica_%28Charlottetown_PEI%29.jpg/435px-St._Dunstan%27s_Basilica_%28Charlottetown_PEI%29.jpg",
+    "location": {
+      "town": "Charlottetown",
+      "latitude": "46.2336000",
+      "longitude": "-63.1254000"
+    },
+    "provinceOrTerritory": {
+      "code": "PE",
+      "name": "Prince Edward Island",
+      "type": "province",
+      "region": "Atlantic region",
+      "capital": "Charlottetown"
+    }
+  },
+  {
+    "siteName": "Province House",
+    "description": "A neoclassical legislative building that served as the site of the Charlottetown Conference of 1864, the first meeting that led to Canadian Confederation",
+    "dates": [
+      {
+        "year": "1847",
+        "type": "completed"
+      }
+    ],
+    "designated": "1966",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/282_-_Birthplace_of_Canada_Charlottetown_PEI.JPG/320px-282_-_Birthplace_of_Canada_Charlottetown_PEI.JPG",
+    "location": {
+      "town": "Charlottetown",
+      "latitude": "46.14574",
+      "longitude": "-63.7339"
+    },
+    "provinceOrTerritory": {
+      "code": "PE",
+      "name": "Prince Edward Island",
+      "type": "province",
+      "region": "Atlantic region",
+      "capital": "Charlottetown"
+    }
+  },
+  {
+    "siteName": "Former Summerside Post Office",
+    "description": "A stone post office with Gothic and Romanesque elements; representative of the small urban post offices erected by the Department of Public Works in smaller urban centres during Thomas Fuller's term as Chief Architect; current town hall",
+    "dates": [
+      {
+        "year": "1887",
+        "type": "completed"
+      }
+    ],
+    "designated": "1983",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Summerside_City_Hall_2.jpg/320px-Summerside_City_Hall_2.jpg",
+    "location": {
+      "town": "Summerside",
+      "latitude": "46.233604",
+      "longitude": "-63.472632"
+    },
+    "provinceOrTerritory": {
+      "code": "PE",
+      "name": "Prince Edward Island",
+      "type": "province",
+      "region": "Atlantic region",
+      "capital": "Charlottetown"
+    }
+  },
+  {
+    "siteName": "Acton Vale Railway Station (Grand Trunk)",
+    "description": "A small passenger terminal with dormer, turret and bellcast roof; symbolic of the expansion of the Grand Trunk Railway",
+    "dates": [
+      {
+        "year": "1900",
+        "type": "completed"
+      }
+    ],
+    "designated": "1976",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Gare_d%27Acton_Vale_2.JPG/320px-Gare_d%27Acton_Vale_2.JPG",
+    "location": {
+      "town": "Acton Vale",
+      "latitude": "45.6482917",
+      "longitude": "-72.5640139"
+    },
+    "provinceOrTerritory": {
+      "code": "QC",
+      "name": "Quebec",
+      "type": "province",
+      "region": "Central Canada",
+      "capital": "Quebec City"
+    }
+  },
+  {
+    "siteName": "Alert Hangar",
+    "description": "Four large steel hangars at CFB Bagotville which, during the Cold War, housed fighter aircraft intended to counter surprise attacks by Soviet bombers; played a strategic role in the air defence of Canada",
+    "dates": [
+      {
+        "year": "1958",
+        "type": "completed"
+      }
+    ],
+    "designated": "2007",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/CFB_Bagotville_%28CYBG%29.jpg/300px-CFB_Bagotville_%28CYBG%29.jpg",
+    "location": {
+      "town": "La Baie",
+      "latitude": "48.3346583",
+      "longitude": "-70.9721528"
+    },
+    "provinceOrTerritory": {
+      "code": "QC",
+      "name": "Quebec",
+      "type": "province",
+      "region": "Central Canada",
+      "capital": "Quebec City"
+    }
+  },
+  {
+    "siteName": "Bank of Montreal",
+    "description": "A 3+1⁄2-storey sandstone former bank branch; the building is a rare surviving example of a commercial building in Canada in the Queen Anne Revival style",
+    "dates": [
+      {
+        "year": "1894",
+        "type": "completed"
+      }
+    ],
+    "designated": "1990",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Banque_de_Montreal_Notre-Dame_et_des_Seigneurs_02.jpg/325px-Banque_de_Montreal_Notre-Dame_et_des_Seigneurs_02.jpg",
+    "location": {
+      "town": "Montreal",
+      "latitude": "45.4877250",
+      "longitude": "-73.5687361"
+    },
+    "provinceOrTerritory": {
+      "code": "QC",
+      "name": "Quebec",
+      "type": "province",
+      "region": "Central Canada",
+      "capital": "Quebec City"
+    }
+  },
+  {
+    "siteName": "Black Watch (Royal Highland Regiment) of Canada Armoury",
+    "description": "Home to The Black Watch (Royal Highland Regiment) of Canada, one of Canada's oldest regiments and its oldest surviving Highland Regiment; a testament to the important roles played by armouries in Canada's military history",
+    "dates": [
+      {
+        "year": "1906",
+        "type": "completed"
+      }
+    ],
+    "designated": "2008",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Black_Watch_Regiment.jpg/360px-Black_Watch_Regiment.jpg",
+    "location": {
+      "town": "Montreal",
+      "latitude": "45.5078806",
+      "longitude": "-73.5698278"
+    },
+    "provinceOrTerritory": {
+      "code": "QC",
+      "name": "Quebec",
+      "type": "province",
+      "region": "Central Canada",
+      "capital": "Quebec City"
+    }
+  },
+  {
+    "siteName": "Bonsecours Market",
+    "description": "A monumental, domed masonry civic building that occupies a full city block, originally built to house the city's first city hall, a public market, exhibition rooms and a concert hall; it was the largest town hall built in Canada during the mid-19th-century and reflected Montreal's rise as a metropolis",
+    "dates": [
+      {
+        "year": "1847",
+        "type": "completed"
+      }
+    ],
+    "designated": "1984",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Bonsecours_Market_in_Sunny_Day.JPG/360px-Bonsecours_Market_in_Sunny_Day.JPG",
+    "location": {
+      "town": "Montreal",
+      "latitude": "45.5089472",
+      "longitude": "-73.5514389"
+    },
+    "provinceOrTerritory": {
+      "code": "QC",
+      "name": "Quebec",
+      "type": "province",
+      "region": "Central Canada",
+      "capital": "Quebec City"
+    }
+  },
+  {
+    "siteName": "Trafalgar Lodge",
+    "description": "An asymmetrical 1+1⁄2-storey brick villa; a rare example of a Gothic Revival villa in Quebec",
+    "dates": [
+      {
+        "year": "1848",
+        "type": "completed"
+      }
+    ],
+    "designated": "1990",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Angle_du_boulevard_Saint-Laurent_et_de_la_rue_Sainte-Catherine_Montreal_1905.jpg/429px-Angle_du_boulevard_Saint-Laurent_et_de_la_rue_Sainte-Catherine_Montreal_1905.jpg",
+    "location": {
+      "town": "Westmount",
+      "latitude": "45.4951000",
+      "longitude": "-73.5981639"
+    },
+    "provinceOrTerritory": {
+      "code": "QC",
+      "name": "Quebec",
+      "type": "province",
+      "region": "Central Canada",
+      "capital": "Quebec City"
+    }
+  },
+  {
+    "siteName": "Van Horne / Shaughnessy House",
+    "description": "The Second Empire-style mansion of Thomas Shaughnessy, 1st Baron Shaughnessy, now forming part of the Canadian Centre for Architecture",
+    "dates": [
+      {
+        "year": "1848",
+        "type": "completed"
+      }
+    ],
+    "designated": "1973",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Centre_Canadien_Architecture_Montreal.JPG/320px-Centre_Canadien_Architecture_Montreal.JPG",
+    "location": {
+      "town": "Montreal",
+      "latitude": "45.495100",
+      "longitude": "-73.5981639"
+    },
+    "provinceOrTerritory": {
+      "code": "QC",
+      "name": "Quebec",
+      "type": "province",
+      "region": "Central Canada",
+      "capital": "Quebec City"
+    }
+  },
+  {
+    "siteName": "Westmount District",
+    "description": "The historic district of Westmount which epitomizes the architectural styles and trends in landscape architecture of 1890 to 1930; reflects the efforts of local citizens who, from the early 20th century onwards, sought to protect the diversity and historic integrity of the district's built environment",
+    "dates": [
+      {
+        "year": "1874",
+        "type": "city incorporated"
+      }
+    ],
+    "designated": "2012",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/H%C3%B4tel_de_ville_de_Westmount.JPG/320px-H%C3%B4tel_de_ville_de_Westmount.JPG",
+    "location": {
+      "town": "Westmount",
+      "latitude": "45.484531",
+      "longitude": "-73.597023"
+    },
+    "provinceOrTerritory": {
+      "code": "QC",
+      "name": "Quebec",
+      "type": "province",
+      "region": "Central Canada",
+      "capital": "Quebec City"
+    }
+  },
+  {
+    "siteName": "Wilson Chambers",
+    "description": "A four-and-a-half-storey stone Gothic Revival style commercial building with Italianate and Second Empire influences; while many churches and institutional buildings were erected in this style in the 19th century, Gothic Revival commercial buildings were rare and this is one of the few remaining examples in Canada",
+    "dates": [
+      {
+        "year": "1868",
+        "type": "completed"
+      }
+    ],
+    "designated": "1990",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Immeuble_Wilson_Chambers_01.jpg/360px-Immeuble_Wilson_Chambers_01.jpg",
+    "location": {
+      "town": "Montreal",
+      "latitude": "45.5009028",
+      "longitude": "-73.5597389"
+    },
+    "provinceOrTerritory": {
+      "code": "QC",
+      "name": "Quebec",
+      "type": "province",
+      "region": "Central Canada",
+      "capital": "Quebec City"
+    }
+  },
+  {
+    "siteName": "Windsor Station (Canadian Pacific)",
+    "description": "A railway terminal and Canadian Pacific Railway head office originally designed by Bruce Price; one of the earliest major buildings in Canada to use the Richardsonian Romanesque Revival style",
+    "dates": [
+      {
+        "year": "1889",
+        "type": "completed"
+      }
+    ],
+    "designated": "1975",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Gare_Windsor_01.jpg/320px-Gare_Windsor_01.jpg",
+    "location": {
+      "town": "Montreal",
+      "latitude": "45.4974611",
+      "longitude": "-73.5686611"
+    },
+    "provinceOrTerritory": {
+      "code": "QC",
+      "name": "Quebec",
+      "type": "province",
+      "region": "Central Canada",
+      "capital": "Quebec City"
+    }
+  },
+  {
+    "siteName": "57-63 St. Louis Street",
+    "description": "Three early eighteenth and nineteenth century stone houses within the walls of Quebec City's Upper Town at the foot of Cavelier du Moulin Park; a notable grouping of buildings from the French Regime",
+    "dates": [
+      {
+        "year": "1705-1811",
+        "type": "period of construction"
+      }
+    ],
+    "designated": "1969",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Quebec_City_Rue_St-Louis_2010b.jpg/320px-Quebec_City_Rue_St-Louis_2010b.jpg",
+    "location": {
+      "town": "Quebec City",
+      "latitude": "46.8109306",
+      "longitude": "-71.2084806"
+    },
+    "provinceOrTerritory": {
+      "code": "QC",
+      "name": "Quebec",
+      "type": "province",
+      "region": "Central Canada",
+      "capital": "Quebec City"
+    }
+  },
+  {
+    "siteName": "Bélanger-Girardin House",
+    "description": "A one-and-a-half-storey stone house with a steep roof located in Beauport, one of the first seigneuries of New France; one of the few remaining early French Regime houses erected in the (then) countryside near Quebec City",
+    "dates": [
+      {
+        "year": "1735",
+        "type": "completed"
+      }
+    ],
+    "designated": "1982",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Maison_Girardin_exterior.jpg/320px-Maison_Girardin_exterior.jpg",
+    "location": {
+      "town": "Beauport",
+      "latitude": "46.8592556",
+      "longitude": "-71.1919694"
+    },
+    "provinceOrTerritory": {
+      "code": "QC",
+      "name": "Quebec",
+      "type": "province",
+      "region": "Central Canada",
+      "capital": "Quebec City"
+    }
+  },
+  {
+    "siteName": "Bon-Pasteur Chapel",
+    "description": "A rectangular five-storey stone-faced chapel with a gable roof that is part of the motherhouse of the Sisters of the Good Shepherd; it is prized for its interior designed by Charles Baillargé and is recognized as an outstanding example of religious architecture in Quebec",
+    "dates": [
+      {
+        "year": "1868",
+        "type": "completed"
+      }
+    ],
+    "designated": "1975",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Chapelle_des_Soeurs_du_Bon_Pasteur.jpg/320px-Chapelle_des_Soeurs_du_Bon_Pasteur.jpg",
+    "location": {
+      "town": "Quebec City",
+      "latitude": "46.8073583",
+      "longitude": "-71.2179111"
+    },
+    "provinceOrTerritory": {
+      "code": "QC",
+      "name": "Quebec",
+      "type": "province",
+      "region": "Central Canada",
+      "capital": "Quebec City"
+    }
+  },
+  {
+    "siteName": "Capitol Theatre / Quebec Auditorium",
+    "description": "Remarkable Beaux Arts-style theatre with a bombé (rounded) facade; evocative of the exuberance of Belle Époque theatres",
+    "dates": [
+      {
+        "year": "1903",
+        "type": "completed"
+      }
+    ],
+    "designated": "1986",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Qu%C3%A9bec_-_Capitole.jpg/360px-Qu%C3%A9bec_-_Capitole.jpg",
+    "location": {
+      "town": "Quebec City",
+      "latitude": "46.8128444",
+      "longitude": "71.2139056"
+    },
+    "provinceOrTerritory": {
+      "code": "QC",
+      "name": "Quebec",
+      "type": "province",
+      "region": "Central Canada",
+      "capital": "Quebec City"
+    }
+  },
+  {
+    "siteName": "Battle of Tourond's Coulee / Fish Creek",
+    "description": "The 36-hectare (89-acre) site of a battle between Middleton's North West Field Force and Gabriel Dumont's Métis and First Nations forces; a psychological victory for the Métis during the North-West Rebellion",
+    "dates": [
+      {
+        "year": "1885",
+        "type": "battle"
+      }
+    ],
+    "designated": "1923",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Battle_Fish_cr_ravine_shelter.jpg/320px-Battle_Fish_cr_ravine_shelter.jpg",
+    "location": {
+      "town": "Fish Creek",
+      "latitude": "52.540528",
+      "longitude": "-106.1492167"
+    },
+    "provinceOrTerritory": {
+      "code": "SK",
+      "name": "Saskatchewan",
+      "type": "province",
+      "region": "Prairie Provinces",
+      "capital": "Regina"
+    }
+  },
+  {
+    "siteName": "Battleford Court House",
+    "description": "A three-storey square brick and limestone court house; representative of the public buildings erected by the provincial government following the creation of the Province of Saskatchewan in 1905",
+    "dates": [
+      {
+        "year": "1909",
+        "type": "completed"
+      }
+    ],
+    "designated": "1981",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Battleford_Court_House.jpg/320px-Battleford_Court_House.jpg",
+    "location": {
+      "town": "Battleford",
+      "latitude": "52.73333",
+      "longitude": "-108.31667"
+    },
+    "provinceOrTerritory": {
+      "code": "SK",
+      "name": "Saskatchewan",
+      "type": "province",
+      "region": "Prairie Provinces",
+      "capital": "Regina"
+    }
+  },
+  {
+    "siteName": "Biggar Railway Station (Grand Trunk Pacific)",
+    "description": "A one-and-a-half-storey, timber-frame train station that commemorates the Grand Trunk Pacific Railway's role in the development of Western Canada and the distinctive contribution its stations made to Canada's architectural heritage",
+    "dates": [
+      {
+        "year": "1910",
+        "type": "completed"
+      }
+    ],
+    "designated": "1976",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Biggar_Railway_Station_Saskatchewan.jpg/320px-Biggar_Railway_Station_Saskatchewan.jpg",
+    "location": {
+      "town": "Biggar",
+      "latitude": "52.05361",
+      "longitude": "-107.98639"
+    },
+    "provinceOrTerritory": {
+      "code": "SK",
+      "name": "Saskatchewan",
+      "type": "province",
+      "region": "Prairie Provinces",
+      "capital": "Regina"
+    }
+  },
+  {
+    "siteName": "Canadian Bank of Commerce",
+    "description": "A two-storey, wood-frame bank with neoclassical stylings, now housing the local museum; the largest surviving example of the prefabricated banks erected in railway towns across the prairies, and representative of the expansion of the country's large banks into Western Canada",
+    "dates": [
+      {
+        "year": "1907",
+        "type": "completed"
+      }
+    ],
+    "designated": "1976",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cdn_Bank_of_Commerce_Watson_Saskatchewan.jpg/320px-Cdn_Bank_of_Commerce_Watson_Saskatchewan.jpg",
+    "location": {
+      "town": "Watson",
+      "latitude": "52.12889",
+      "longitude": "-104.52417"
+    },
+    "provinceOrTerritory": {
+      "code": "SK",
+      "name": "Saskatchewan",
+      "type": "province",
+      "region": "Prairie Provinces",
+      "capital": "Regina"
+    }
+  },
+  {
+    "siteName": "Fort Carlton",
+    "description": "The site of forts built in 1810, 1845 and 1855 (with foundations and archaeological remains existing from the 1855 fort); served as a strategically placed Hudson's Bay Company fort and a North-West Mounted Police post, and the location where Treaty 6 was signed",
+    "dates": [
+      {
+        "year": "1810",
+        "type": "established"
+      }
+    ],
+    "designated": "1976",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Fort_Carlton_NHSC.jpg/320px-Fort_Carlton_NHSC.jpg",
+    "location": {
+      "town": "Duck Lake",
+      "latitude": "52.8180417",
+      "longitude": "-106.4964861"
+    },
+    "provinceOrTerritory": {
+      "code": "SK",
+      "name": "Saskatchewan",
+      "type": "province",
+      "region": "Prairie Provinces",
+      "capital": "Regina"
+    }
+  },
+  {
+    "siteName": "Former Prince Albert City Hall",
+    "description": "Former city hall with bell tower, now serving as an arts centre; one of the few remaining 19th-century town halls on the Canadian Prairies, and a reflection of the town's status and optimism at the time of the hall's construction",
+    "dates": [
+      {
+        "year": "1893",
+        "type": "completed"
+      }
+    ],
+    "designated": "1984",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Prince_Albert_City_Hall.jpg/320px-Prince_Albert_City_Hall.jpg",
+    "location": {
+      "town": "Prince Albert N ″W",
+      "latitude": "53.127127",
+      "longitude": "105.4531531"
+    },
+    "provinceOrTerritory": {
+      "code": "SK",
+      "name": "Saskatchewan",
+      "type": "province",
+      "region": "Prairie Provinces",
+      "capital": "Regina"
+    }
+  },
+  {
+    "siteName": "Church of Our Lady of Good Hope",
+    "description": "Early northern Oblate mission church, illustrative of northern mission churches in a simplified version of the Gothic Revival Style; one of the oldest surviving buildings of this type",
+    "dates": [
+      {
+        "year": "1885",
+        "type": "completed"
+      }
+    ],
+    "designated": "1977",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Church_of_Our_Lady_of_Good_Hope_-_interrior.jpg",
+    "location": {
+      "town": "Fort Good Hope",
+      "latitude": "66.2519000",
+      "longitude": "-128.6439000"
+    },
+    "provinceOrTerritory": {
+      "code": "NT",
+      "name": "Northwest Territories",
+      "type": "territory",
+      "region": "North",
+      "capital": "Yellowknife"
+    }
+  },
+  {
+    "siteName": "Déline Fishery / Franklin's Fort",
+    "description": "The archaeological remains of a fort on the site of a traditional seasonal fishery, constructed as the wintering quarters of Sir John Franklin and his second expedition; symbolic of the 19th-century relationship between Aboriginal people in the north and Euro-Canadian exploration parties",
+    "dates": [
+      {
+        "year": "1825-7",
+        "type": "wintering site"
+      }
+    ],
+    "designated": "1996",
+    "image": "",
+    "location": {
+      "town": "Deline",
+      "latitude": "65.18639",
+      "longitude": "-123.41583"
+    },
+    "provinceOrTerritory": {
+      "code": "NT",
+      "name": "Northwest Territories",
+      "type": "territory",
+      "region": "North",
+      "capital": "Yellowknife"
+    }
+  },
+  {
+    "siteName": "Ehdaa",
+    "description": "Traditional gathering site for the Dene which continues to be used for important events, including the signing of Treaty 11 in 1921 and Pope John Paul II's visit in 1987",
+    "dates": [
+      {
+        "year": "1921",
+        "type": "treaty signing"
+      },
+      {
+        "year": "1987",
+        "type": "papal visit"
+      }
+    ],
+    "designated": "2002",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Fort_Simpson_-_Canada_day_2011.jpg/320px-Fort_Simpson_-_Canada_day_2011.jpg",
+    "location": {
+      "town": "Fort Simpson",
+      "latitude": "61.85917",
+      "longitude": "-121.34306"
+    },
+    "provinceOrTerritory": {
+      "code": "NT",
+      "name": "Northwest Territories",
+      "type": "territory",
+      "region": "North",
+      "capital": "Yellowknife"
+    }
+  },
+  {
+    "siteName": "Fort McPherson",
+    "description": "The principal Hudson's Bay Company trading post in the MacKenzie Delta region for over 50 years, and a centre of missionary activity; the first North-West Mounted Police post in the Western Arctic",
+    "dates": [
+      {
+        "year": "1840",
+        "type": "established"
+      }
+    ],
+    "designated": "1969",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/FortMcPhersonNWT.JPG/360px-FortMcPhersonNWT.JPG",
+    "location": {
+      "town": "Fort McPherson",
+      "latitude": "67.43528",
+      "longitude": "-134.88194"
+    },
+    "provinceOrTerritory": {
+      "code": "NT",
+      "name": "Northwest Territories",
+      "type": "territory",
+      "region": "North",
+      "capital": "Yellowknife"
+    }
+  },
+  {
+    "siteName": "Fort Reliance",
+    "description": "The remains of a Hudson's Bay Company fort built as a base of operations for an expedition by George Back, and later used as a trading post in the 1850s. The ruins are surrounded by the proposed Thaidene Nene National Park. If realized, the park and the National Historic Site would join the park system as two units.",
+    "dates": [
+      {
+        "year": "1833",
+        "type": "established"
+      }
+    ],
+    "designated": "1953",
+    "image": "",
+    "location": {
+      "town": "Great Slave Lake",
+      "latitude": "62.71278",
+      "longitude": "-109.16472"
+    },
+    "provinceOrTerritory": {
+      "code": "NT",
+      "name": "Northwest Territories",
+      "type": "territory",
+      "region": "North",
+      "capital": "Yellowknife"
+    }
+  },
+  {
+    "siteName": "Fort Resolution",
+    "description": "A small, rectangular-shaped peninsula on which first stood a North West Company fur post and later a Hudson's Bay Company store; the oldest continuously occupied place in the Northwest Territories with origins in the fur trade",
+    "dates": [
+      {
+        "year": "1819",
+        "type": "established"
+      }
+    ],
+    "designated": "1973",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Fort_Resolution.jpg/330px-Fort_Resolution.jpg",
+    "location": {
+      "town": "Fort Resolution",
+      "latitude": "61.17056",
+      "longitude": "-113.67111"
+    },
+    "provinceOrTerritory": {
+      "code": "NT",
+      "name": "Northwest Territories",
+      "type": "territory",
+      "region": "North",
+      "capital": "Yellowknife"
+    }
+  },
+  {
+    "siteName": "Beechey Island Sites",
+    "description": "Sites associated with Arctic exploration, including the wintering site of Franklin's lost expedition and a base for subsequent search expeditions",
+    "dates": [
+      {
+        "year": "1846",
+        "type": "wintering site"
+      },
+      {
+        "year": "1854",
+        "type": "search expeditions"
+      }
+    ],
+    "designated": "1993",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/7f/BeecheyIsland_Graves.jpg",
+    "location": {
+      "town": "Beechey Island and Devon Island",
+      "latitude": "74.717",
+      "longitude": "-91.850"
+    },
+    "provinceOrTerritory": {
+      "code": "NU",
+      "name": "Nunavut",
+      "type": "territory",
+      "region": "North",
+      "capital": "Iqaluit"
+    }
+  },
+  {
+    "siteName": "Blacklead Island Whaling Station",
+    "description": "One of the most important whaling stations and wintering sites in Cumberland Sound from the 1860s until the early 20th century; a good example of a contact-period Inuit village",
+    "dates": [
+      {
+        "year": "1860",
+        "type": "established"
+      }
+    ],
+    "designated": "1985",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/19/Blacklead_Island_Whaling_Station.jpg",
+    "location": {
+      "town": "Blacklead Island",
+      "latitude": "64.98306",
+      "longitude": "-66.20000"
+    },
+    "provinceOrTerritory": {
+      "code": "NU",
+      "name": "Nunavut",
+      "type": "territory",
+      "region": "North",
+      "capital": "Iqaluit"
+    }
+  },
+  {
+    "siteName": "Bloody Falls",
+    "description": "Archaeological remains on river terraces of pre-contact hunting and fishing sites; a record of the presence of Pre-Dorset, Thule, First Nation and Inuit peoples over the last 3000 years",
+    "dates": [
+      {
+        "year": "1700",
+        "type": "BCE, human occupation"
+      }
+    ],
+    "designated": "1978",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Bloody_Falls.jpg/320px-Bloody_Falls.jpg",
+    "location": {
+      "town": "Kugluk/Bloody Falls Territorial Park",
+      "latitude": "67.74333",
+      "longitude": "-115.36750"
+    },
+    "provinceOrTerritory": {
+      "code": "NU",
+      "name": "Nunavut",
+      "type": "territory",
+      "region": "North",
+      "capital": "Iqaluit"
+    }
+  },
+  {
+    "siteName": "Fall Caribou Crossing",
+    "description": "A section of the lower Kazan River which has witnessed centuries of inland caribou hunting; symbolic of the cultural, spiritual and economic life of the Inuit in the region",
+    "dates": [],
+    "designated": "1995",
+    "image": "",
+    "location": {
+      "town": "Kivalliq Region",
+      "latitude": "63.64361",
+      "longitude": "-96.04944"
+    },
+    "provinceOrTerritory": {
+      "code": "NU",
+      "name": "Nunavut",
+      "type": "territory",
+      "region": "North",
+      "capital": "Iqaluit"
+    }
+  },
+  {
+    "siteName": "Igloolik Island Archaeological Sites",
+    "description": "Nine archaeological sites dating from Dorset and Pre-Dorset occupations, demonstrating 4000 years of human activity; also the wintering site for William Parry in 1821 and the base of the Fifth Thule Expedition of 1921–24",
+    "dates": [
+      {
+        "year": "2000",
+        "type": "BCE, human occupation"
+      }
+    ],
+    "designated": "1978",
+    "image": "",
+    "location": {
+      "town": "Igloolik Island",
+      "latitude": "69.383",
+      "longitude": "-81.667"
+    },
+    "provinceOrTerritory": {
+      "code": "NU",
+      "name": "Nunavut",
+      "type": "territory",
+      "region": "North",
+      "capital": "Iqaluit"
+    }
+  },
+  {
+    "siteName": "Inuksuk",
+    "description": "100 inuksuit standing on a treeless headland; a testament to the ingenuity and artistry of the Inuit",
+    "dates": [],
+    "designated": "1969",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Inuksugalait_Foxe-PI_2002-07-26.jpg/320px-Inuksugalait_Foxe-PI_2002-07-26.jpg",
+    "location": {
+      "town": "Foxe Peninsula",
+      "latitude": "64.57194",
+      "longitude": "-78.17139"
+    },
+    "provinceOrTerritory": {
+      "code": "NU",
+      "name": "Nunavut",
+      "type": "territory",
+      "region": "North",
+      "capital": "Iqaluit"
+    }
+  },
+  {
+    "siteName": "Kekerten Island Whaling Station",
+    "description": "The remains of a whaling station, as well as a burial ground and a shipwreck; symbolic of whaling in the Eastern Arctic and of the economic and cultural impact of the whaling on the Inuit in the region",
+    "dates": [
+      {
+        "year": "1857",
+        "type": "established"
+      }
+    ],
+    "designated": "1985",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Kekerten_Historic_Park.jpg/320px-Kekerten_Historic_Park.jpg",
+    "location": {
+      "town": "Cumberland Sound",
+      "latitude": "65.700",
+      "longitude": "-65.800"
+    },
+    "provinceOrTerritory": {
+      "code": "NU",
+      "name": "Nunavut",
+      "type": "territory",
+      "region": "North",
+      "capital": "Iqaluit"
+    }
+  },
+  {
+    "siteName": "Dawson Historical Complex",
+    "description": "The historic core of Dawson City, a town established during the Klondike Gold Rush; a wide range and concentration of frontier structures related to the town’s early nature, northern isolation, and links to mining activities",
+    "dates": [
+      {
+        "year": "1896",
+        "type": "beginning of gold rush"
+      }
+    ],
+    "designated": "1959",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Dawson_Yukon_June_07.jpg/320px-Dawson_Yukon_June_07.jpg",
+    "location": {
+      "town": "Dawson City",
+      "latitude": "64.3347358",
+      "longitude": "-139.25149104"
+    },
+    "provinceOrTerritory": {
+      "code": "YT",
+      "name": "Yukon",
+      "type": "territory",
+      "region": "North",
+      "capital": "Whitehorse"
+    }
+  },
+  {
+    "siteName": "Dredge No. 4",
+    "description": "A preserved bucketline sluice dredge used to mine placer gold; symbolizes the importance of dredging operations to the evolution of gold mining in the Klondike",
+    "dates": [
+      {
+        "year": "1913",
+        "type": "completed"
+      },
+      {
+        "year": "1941",
+        "type": "moved to Bonanza Creek"
+      }
+    ],
+    "designated": "1997",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Dawson_City_Dredge_4.jpg/320px-Dawson_City_Dredge_4.jpg",
+    "location": {
+      "town": "Bonanza Creek",
+      "latitude": "63.56136248",
+      "longitude": "-139.201543"
+    },
+    "provinceOrTerritory": {
+      "code": "YT",
+      "name": "Yukon",
+      "type": "territory",
+      "region": "North",
+      "capital": "Whitehorse"
+    }
+  },
+  {
+    "siteName": "S.S. Keno",
+    "description": "A steam-powered sternwheeler river vessel which rests on the bank of the Yukon River; representative of lake and river sternwheeler steamers used in the Yukon",
+    "dates": [
+      {
+        "year": "1922",
+        "type": "launched"
+      }
+    ],
+    "designated": "1962",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/SS_Keno_Dawson.jpg/320px-SS_Keno_Dawson.jpg",
+    "location": {
+      "town": "Dawson City",
+      "latitude": "64.314725",
+      "longitude": "-139.2614315"
+    },
+    "provinceOrTerritory": {
+      "code": "YT",
+      "name": "Yukon",
+      "type": "territory",
+      "region": "North",
+      "capital": "Whitehorse"
+    }
+  },
+  {
+    "siteName": "S.S. Klondike",
+    "description": "A large paddle steamer dry-docked on the bank of the Yukon River; the largest and last of the Yukon commercial steamboats",
+    "dates": [
+      {
+        "year": "1937",
+        "type": "launched"
+      }
+    ],
+    "designated": "1967",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Paddlewheeler_SS_Klondike.jpg/320px-Paddlewheeler_SS_Klondike.jpg",
+    "location": {
+      "town": "Whitehorse",
+      "latitude": "60.71339",
+      "longitude": "-135.04839"
+    },
+    "provinceOrTerritory": {
+      "code": "YT",
+      "name": "Yukon",
+      "type": "territory",
+      "region": "North",
+      "capital": "Whitehorse"
+    }
+  },
+  {
+    "siteName": "St. Paul's Anglican Church",
+    "description": "A significant example of the architecture of frontier missions in Canada; a simple church with Gothic Revival and Arts and Crafts elements",
+    "dates": [
+      {
+        "year": "1902",
+        "type": "completed"
+      }
+    ],
+    "designated": "1989",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/St._Paul%27s_Anglican_Church_%28Dawson_City%2C_Yukon%29.JPG/287px-St._Paul%27s_Anglican_Church_%28Dawson_City%2C_Yukon%29.JPG",
+    "location": {
+      "town": "Dawson City",
+      "latitude": "64.335631",
+      "longitude": "-139.26517"
+    },
+    "provinceOrTerritory": {
+      "code": "YT",
+      "name": "Yukon",
+      "type": "territory",
+      "region": "North",
+      "capital": "Whitehorse"
+    }
+  },
+  {
+    "siteName": "Yukon Hotel",
+    "description": "A small wooden false-front building typical of commercial structures built at the height of the Klondike Gold Rush",
+    "dates": [
+      {
+        "year": "1898",
+        "type": "completed"
+      }
+    ],
+    "designated": "1982",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Yukon_hotel%2C_Dawson.JPG/320px-Yukon_hotel%2C_Dawson.JPG",
+    "location": {
+      "town": "Dawson City",
+      "latitude": "64.33533",
+      "longitude": "-139.264618"
+    },
+    "provinceOrTerritory": {
+      "code": "YT",
+      "name": "Yukon",
+      "type": "territory",
+      "region": "North",
+      "capital": "Whitehorse"
+    }
+  }
+]
