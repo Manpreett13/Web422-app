@@ -98,6 +98,7 @@ let initialized = false;
 
 async function initializeDB() {
   if (!initialized) {
+    console.log("Connection string:", process.env.MONGODB_CONN_STRING);
     await db.initialize(process.env.MONGODB_CONN_STRING);
     initialized = true;
   }
