@@ -8,7 +8,7 @@
  *
  *  Name: Manpreet Singh    Student ID: 149578239   Date: May 16, 2025
  *  Published URL on Vercel:
- *  https://web422-one-umber.vercel.app/
+ *  https://web422-app-theta.vercel.app/
  ********************************************************************************/
 
 const express = require("express");
